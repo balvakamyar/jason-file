@@ -1,2 +1,2 @@
 # jason-file
-creat jason file
+creat json file
